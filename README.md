@@ -1,1 +1,3 @@
 - [PySpiderToutiao](https://github.com/mdiligent/PythonSpider/tree/master/PySpiderToutiao)，使用Pyspider框架爬取头条的图片，参考仓库[Python3WebSpider/Jiepai](https://github.com/Python3WebSpider/Jiepai)，Pyspider[参考文档](http://docs.pyspider.org/en/latest)。
+- [使用scrapy模拟登录豆瓣并爬取top250电影id，并提取电影信息，爬取电影评论后续待补充](https://github.com/mdiligent/PythonSpider/tree/master/douban)参考仓库：https://github.com/iphysresearch/TOP250movie_douban#movie_item
+- [使用requests爬取豆瓣电影评论](https://github.com/mdiligent/PythonSpider/tree/master/douban_requests)参考：https://www.cnblogs.com/wsmrzx/p/9527087.html
